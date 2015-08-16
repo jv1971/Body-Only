@@ -1,0 +1,24 @@
+/* Class = "UITableViewController"; title = "Exercises list"; ObjectID = "7bK-jq-Zjz"; */
+"7bK-jq-Zjz.title" = "Упражнения";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Arm-wq-HPj"; */
+"Arm-wq-HPj.text" = "Заголовок";
+
+/* Class = "UIViewController"; title = "Detail"; ObjectID = "JEX-9P-axG"; */
+"JEX-9P-axG.title" = "Детали";
+
+/* Class = "UINavigationController"; title = "Exercises list"; ObjectID = "RMx-3f-FxP"; */
+"RMx-3f-FxP.title" = "Упражнения";
+
+/* Class = "UINavigationItem"; title = "Exercises list"; ObjectID = "Zdf-7t-Un8"; */
+"Zdf-7t-Un8.title" = "Упражнения";
+
+/* Class = "UINavigationItem"; title = "Detail"; ObjectID = "mOI-FS-AaM"; */
+"mOI-FS-AaM.title" = "Детали";
+
+/* Class = "UISearchBar"; r8c-hm-xQs.scopeButtonTitles[0] = "Title"; ObjectID = "r8c-hm-xQs"; */
+"r8c-hm-xQs.scopeButtonTitles[0]" = "Заголовок";
+
+/* Class = "UISearchBar"; r8c-hm-xQs.scopeButtonTitles[1] = "Title"; ObjectID = "r8c-hm-xQs"; */
+"r8c-hm-xQs.scopeButtonTitles[1]" = "Заголовок";
+

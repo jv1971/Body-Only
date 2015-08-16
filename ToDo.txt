@@ -1,0 +1,2 @@
+1. Double tap image zoom in-out
+3. Translation

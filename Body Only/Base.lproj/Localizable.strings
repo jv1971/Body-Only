@@ -1,0 +1,23 @@
+share = "Share message goes here";
+about = "About app";
+subtitles = "Workout Ideas, art work, content by Neila Rey\ndarebee.com\n\nProgramming, app idea and app design by Jack";
+search_prompt = "Search workout";
+
+not_start = "Mark as Not Start Yet";
+lv1 = "Mark as Level 1";
+lv2 = "Mark as Level 2";
+lv3 = "Mark as Level 3";
+zero = "Mark ALL as Not Start Yet";
+wl = "Workout level";
+sb2 = "Set workout level for color attraction";
+close = "Close";
+start = "Start";
+stop = "Stop";
+reset = "Reset";
+timer = "Timer";
+plus = "Plus +";
+minus = "Minus -";
+sb3 = "Exercise counter";
+saved = "Saved!";
+info = "Workout image has been saved to your photos.";
+error = "Error saving workout";
